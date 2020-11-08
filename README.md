@@ -19,7 +19,7 @@ Após abrir o programa, rodar em sequência os seguintes arquivos:
 
 ## Ambiente de trabalho utilizado
 
-* Computador: DELL Inspiron 15
+* Computador: DELL Inspiron 15 7572
 * Processador: Intel Core i7
 * Sistema: Windows 10 Home Single Language (64 bits)
 * IDE: PyCharm 
