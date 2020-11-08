@@ -1,4 +1,4 @@
-# TechStartPro | OList
+# TechStartPro | Olist
 
 ## Descrição
 
