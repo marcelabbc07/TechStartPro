@@ -1,5 +1,5 @@
 import MySQLdb
-from model.product_model import Product
+from model.products_model import Product
 
 
 class ProductDao:
