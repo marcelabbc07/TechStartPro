@@ -24,6 +24,6 @@ Após abrir o programa, rodar em sequência os seguintes arquivos:
 * Sistema: Windows 10 Home Single Language (64 bits)
 * IDE: PyCharm 
 
-##Onde encontrar
+## Onde encontrar
 
 https://github.com/marcelabbc07/TechStartPro
